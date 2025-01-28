@@ -1,1 +1,1 @@
-The project use nodejs , express ,MongoDB ,jsonwebtoken and MVC Architecture 
+The project use nodejs , express ,MongoDB ,jsonwebtoken 
